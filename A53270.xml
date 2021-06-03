@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The old Puritan, Godly, honest, and loyal</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53270</idno><idno type="EEBO-CITATION">12962093</idno>
+  <idno type="VID">96095</idno>
+  <idno type="EEBO-PROQUEST">2240850639</idno>
+  
+            <idno type="STC">Wing O215</idno>
+            <idno type="STC">ESTC R3283</idno>
+            <idno type="OCLC">12962093</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96095)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 723:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The old Puritan, Godly, honest, and loyal</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Puritans.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96095:1"/>
+            <head>THE OLD PURITAN, <hi>Godly, Honest,</hi> and <hi>Loyal.</hi>
+            </head>
+            <p n="1">I. <seg rend="decorInit">B</seg>Efore he came to God he beleeved, that he was 1. from the things he did: <hi>Rom.</hi> 1.20. which he saw begun one from another, and all from him who is of himselfe the first, and have an end one for the other, they of a lower degree for those of a higher (the dead for the living, the living for the sensitive, the sensitive for the rational) and all for him who is for himself the last: 2. from the preservation, assistance, guidance &amp; govern<g ref="char:EOLhyphen"/>ment of the world made, in whom it moves, &amp; hath a being, and all things, food, rayment, fruitful seasons, <hi>&amp;c.</hi> necessary to uphold that being; God in these things leaving not himself without a wit<g ref="char:EOLhyphen"/>nes, <hi>Acts</hi> 14.17.3. from the witnes of conscience which doth bear witness against our selves not to men or any other creatures, for who of them can discern the witness of the spirit of a man? but to one, who discerneth, weigheth, and tryeth the Spirit: 4. from the judgement of conscience which it pronounceth to the terrors of evil doers, when there is none they need fear but God, to the joy of him that doth well, when there is none in Heaven to en<g ref="char:EOLhyphen"/>courage him but God, none in the earth besides him: 5. from the
+<pb n="2" facs="tcp:96095:2"/> consent and voice of all men of several interests, and engagements proceeding from equal and common reason, who ignorantly wor<g ref="char:EOLhyphen"/>shipped that God, who is sufficiently declared unto us.</p>
+            <p n="2">II. He beleeved from the Scripture (which he took to be given of God, and written by men inspired of God, God bearing them 1. holy and self-denying witness by signs and wonders. <hi>Heb.</hi> 2.3. 2. speaking in them such things of fin, grace and glory, and in such evidence &amp; power over the soul, and homely majesty as no man ever yet spoke in: 3. and that before all things from the beginning, although at several times and in divers manners yet intirely agreeable to it self in all things: 4. being opposed by the devil and whatsoever is wicked in the world beyond all other writings in the world, yet testified unto by heathens, and sealed by Martyrs in the world, and by the holy Ghost in the heart, ac<g ref="char:EOLhyphen"/>cording to which Scripture he guides his faith and practice, in o<g ref="char:EOLhyphen"/>bedience, worship, or discipline; passing by the traditions of men, corrupt reason, the light within, enthusiastick motions of the pre<g ref="char:EOLhyphen"/>tended spirit, new light, going under God and his Spirit, that leads into the truth, to the Law and testimony, and judging that whosoever speaks not according to that, the truth is not in him.) I say he beleeves what God is, a Spirit eternal, Invisible, omni<g ref="char:EOLhyphen"/>potent, omnipresent, omnifcient, all wise, holy, just, good, graci<g ref="char:EOLhyphen"/>ous, merciful, all-sufficient.</p>
+            <p n="3">III. He beleeves how he is to be worshipped, as God 1. in Spi<g ref="char:EOLhyphen"/>rit: 1. conceiving him not in the image of any thing: 2. con<g ref="char:EOLhyphen"/>ceiving him in the glory of his attributes that passed by <hi>Moses</hi> and his works, <hi>Exod.</hi> 24.6.3. in the Trinity worshipping the Fa<g ref="char:EOLhyphen"/>ther in and by the Son and Spirit as he conceives him so: 1. a<g ref="char:EOLhyphen"/>doring him, denying himselfe, exalting him with inward feare of God, and of offending him, with inward obedience of every thought and imagination, with patience, <hi>Lo he is before God, l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t him do with him what he pleaseth.</hi> 1 Sam. 15.26. in thankfulness acknowledging Gods dealing with him, and offering up himself unto God with all that is his: 2. Cleaving to him in faith which works by love, by love that keeps the commandements, by hope that enters within the veil, by inward prayer without ceasing, 2. in truth: 1. of sincerity, for he knows he will not be mocked: 2. of judgement, being well perswaded in his mind, worshipping not
+<pb n="3" facs="tcp:96095:2"/> God with the traditions of men: 3. he beleeves how he is to be worshipped outwardly, In prayer, before which he must prepare his heart to be 1. emptyed of all vanity and superfluity of naugh<g ref="char:EOLhyphen"/>tiness: 2. to be brought to consider what it would have: 3. to be lifted up to the Lord: 4. to be filled with a reverence of the God he hath to doe with, being not hasty to utter any thing be<g ref="char:EOLhyphen"/>fore God.</p>
+            <p>In prayer he 1. carrieth himself earnestly, feelingly and zea<g ref="char:EOLhyphen"/>lously from the sense of his want and poverty especially of the want of God in Christ, of grace sufficient for him: 2. he prayes beleevingly with faith in Christ and through him in God: 3. he prays from such grounds as he hath from the word of God know<g ref="char:EOLhyphen"/>ing <hi>that whatsoever he asketh according to Gods wil he heareth him,</hi> 1 <hi>John</hi> 5.21. grounding his prayer upon 1. Gods command to pray: 2. his promise that prayer made be heard, he pray for things law<g ref="char:EOLhyphen"/>ful, in the measure, time, place that God will, he prayeth to God alone in the name and mediation of Jesus Christ, in whose name <hi>whatsoever we aske it shall be given us, John</hi> 16.23. He prayeth instantly, perseveringly <hi>continuing his request known to God by prayer, supplication, and thanksgiving,</hi> after he prayeth, he beleeveth he shall have <hi>it. Mark</hi> 11.24. or what is <hi>equivo<g ref="char:EOLhyphen"/>lent:</hi> 2. He goeth about the lawful means to attaine to that he prayeth for.</p>
+            <p>Thus he worshippeth God in prayer, publiquely privately, as often as he can, in a gesture comely, modest, and decent, with words full, few, sober, whether of his own or others in a place most becoming so solemn a service without any temptation to distraction: 2. he worships God in hearing, being swift to hear, <hi>Isa.</hi> 1.19. 1. He desires to hear out of a sense of his want of know<g ref="char:EOLhyphen"/>ledg, casting out all superfluity of naughtinesse, that he may re<g ref="char:EOLhyphen"/>ceive the ingrafted word, lifting up his heart to God by prayer for an hearing ear, setting himself as in the presence of God, he comes to hear with judgement, <hi>trying all things, trying the spirits whether they be of God,</hi> he judgeth but censureth not. <hi>He receiveth into his heart with meeknesse the ingrafted word,</hi> Isa. 1.21. Understanding it well, <hi>mingling it with faith and full assu<g ref="char:EOLhyphen"/>rance, being affected with it: the word prevailing and dwelling rich<g ref="char:EOLhyphen"/>ly in us, after he hath heard he treasureth it up in his heart,
+<pb n="4" facs="tcp:96095:3"/> Psal.</hi> 119.11. 2. He meditates on it; 3. He hath experience or it in himselfe, feeling the power of it upon his soul: 4. He considers his wayes after he heard, and turns his feet unto Gods testimonies, removing all hardnesse of heart, all worldly cares he holds it fast in his understanding, memory, heart and life, lest he deceive his soul; he reades likewise, and hears the word read, trembles at it, fear and reverenceth it, taking heed to his feete when he commeth to the house of God, he and his neighbour often speaking of it one to another.</p>
+            <p n="3">3. He being baptized in his childhood, he makes use of Bap<g ref="char:EOLhyphen"/>tisme. 1. As a seale of the righteousnesse of faith, a pledge for the forgiving and remission of his sins, <hi>Act.</hi> 2.33.10.48. and a seale of the Covenant well ordered and sure, wherein God will be his, and he will be Gods: 2. As a pledge of the power of Christs death, unto which he was baptized for the mortifying and crucifying of the body of sin, <hi>Rom.</hi> 6.3, 4. 3. As a pledge of the life of Christ, that being dead with him, he rise with him, hav<g ref="char:EOLhyphen"/>ing fellowship with him in the power of his resurrection. 4. As a token to put him in mind of dedicating himselfe unto God, serv<g ref="char:EOLhyphen"/>ing no longer divers lusts and pleasures whereby he was brought captive under Satan at his will: 5. As a token of distinction from the world, from which he separates himselfe, and of union and fel<g ref="char:EOLhyphen"/>lowship with all christians, being by one Spirit baptized into one body, 1 <hi>Cor.</hi> 12.13. whereby he is engaged to keep the unity of the Spirit in the bond of peace: he likewise baptizeth his infants ad<g ref="char:EOLhyphen"/>mitting them to Christ, the Church, an interest in the Covenant of grace, and eternall life, being holy, because he is holy.</p>
+            <p n="4">IV. He take, eats, and drinks in the Lords Supper often in re<g ref="char:EOLhyphen"/>membrance of Christ, in obedience to Christs command, and the laudable custome of the Church; 1. Examining himselfe in his state and life, lest he eate and drink his own damnation: 2. Bring<g ref="char:EOLhyphen"/>ing with him a saving knowledge of all the principles of Religion, Faith, Repentance and Charity without revenge, taking heed of the unworthines of an evil heart, yea also of the unworthines of in<g ref="char:EOLhyphen"/>firmity; a thirsting after Christ, a resolve for a new life, and it may be fasts, yet knowing that the kingdome of God consists not in meat and drink, <hi>Rom.</hi> 14.17. He reneweth his knowledge and faith by Christ, by those signes that represent him, and apply him,
+<pb n="5" facs="tcp:96095:3"/> meditating on them, apprehending and applying them; after he hath received he is thankfull in word and action all the dayes of his life.</p>
+            <p n="5">V. He fasts for some just cause under a private or publick judg<g ref="char:EOLhyphen"/>ment for some speciall blessing, abstaining from meat, from delight, that the body be afflicted and brought under, as long as the humi<g ref="char:EOLhyphen"/>liation lasteth and his body will bear it; at lest not eating so much or so delightfull meate as at other times, to stirre him up to de<g ref="char:EOLhyphen"/>votion, to testifie the humillity of his heart, and to admonish him of his guiltinesse before the Lord.</p>
+            <p n="6">VI. He keeps the Sabbath sanctified of the Lord, (it being reason a part of our time should be sanctified to the Lord,) not the seaventh day sanctified at first, but the first day since sanctified to the Lord of the Sabbath, as appears from <hi>John</hi> 20.19, 26. <hi>Act.</hi> 2.1. <hi>Psal.</hi> 118.24. <hi>Act.</hi> 2.36. 1 <hi>Cor.</hi> 16.2. <hi>Rev.</hi> 1.10. First, He rests upon it beginning in the morning, not Jewishly nor wantonly, but from the ordinary workes of his calling, from car<g ref="char:EOLhyphen"/>nall recreations, for works of necessity, religion and charity. Se<g ref="char:EOLhyphen"/>condly, He sanctifieth it 1. publickly, in partaking of Ordinances, and works of charity, and 2. privately preparing himself and his fa<g ref="char:EOLhyphen"/>mily in the morning, in doing duties in the middle of the day, and after that in meditation and conference.</p>
+            <p n="7">VII. He takes an oath for confirmation, and an end of strife, (in Gods name, onely as a witnesse to truth and a revenger of falsehood) in truth and sincerity, in judgement of the thing in question of the nature of the oath, of the meaning of him that sweareth, of the issue of it, of the time, place, and persons when, and before whom he swears. Secondly, he keeps it in things law<g ref="char:EOLhyphen"/>full and necessary, alwayes to his own hurt, <hi>Psal.</hi> 15.4. though he was deceived or forced to it, but he keeps it not against the word of God, the good Law of the land: In things impossible, either then or afterward, he swears neither vainly, nor falsly.</p>
+            <p n="8">VIII. He payes a vow, which he made being free, freely and knowingly concerning things lawfull, certain and possible to the better honour and service of God.</p>
+            <p n="9">IX. He endeavours to forsake all sins and transgression of the law, whether of commission or omission, crying sins and sins of tolleration, against God and men, of knowledge or ignorance,
+<pb n="6" facs="tcp:96095:4"/> willing or unwilling, of presumption or infirmity, without the body or in the body, his own sins or communicating with other mens sins, sins that go before hand to judgement, or those that follow after.</p>
+            <p n="10">X. He endeavors to be assured of Gods love, and favor in Christ (who purchaseth it, justifieth and sanctifieth man for it) by the spirits testifying to his spirit that he is the Son of God, <hi>Rom.</hi> 8.16. by walking uprightly before God approving his heart and life to God, <hi>Psal.</hi> 15. by communion and fellowship with the father and the Son in the remission of sin, 1 John 5.7. in belee<g ref="char:EOLhyphen"/>ving, in confessing, in peace of conscience, 1 <hi>John</hi> 3.21. in the sanctification of the Spirit which God hath given him, 1 <hi>Joh</hi> 3.24. by perseverance and abiding; 1 <hi>John</hi> 1.6, 7.2.24. by adoption: now he hopeth as the son of God, when he appeareth he shall be like him, and in this hope he purifieth himselfe, he is assured of the love of God to him: 1. by his love to God, his conformity to him, and his desire to enjoy him above all things, by his love to his brethren in deed and in truth. He giveth all diligence (knowing the foundation of God standeth sure, and hath this seal, God knoweth who are his) to make his calling sure by departing from iniquity, and adding to his faith virtue, to that knowledg, <hi>&amp;c.</hi> 2 <hi>Pet.</hi> 1.10. and all this he doth not bur the grace of God that dwelleth in him.</p>
+            <p n="11">XI. He is very careful to maintain good works, which are good and profitable unto men, for God, his profession, and other mens sake: and so he is loving and obedient to Parents: abhorring these late and perillous times, wherein men are without natural affe<g ref="char:EOLhyphen"/>ction, and disobedient to parents. He is very careful to bring up his children in the nurture admonition and fear of God, in a way honest and advantageous to live with God in their generation.</p>
+            <p n="12">XII. He is very careful to observe, esteem, love, give double honour of reverence and maintainance, to the lawful Ministers of the word and doctrine, to obey them that have the rule over him in things lawful, in things indifferent, using not his liberty for a cloak of licentiousness, neither despising them that do use them, nor condemning them that forbeare, separating not himselfe as carnal, not having the Spirit, forsaking not the assembling of him<g ref="char:EOLhyphen"/>self together with others, having an especial eye upon them that
+<pb n="7" facs="tcp:96095:4"/> cause divisions, or being in damnable heresies, he himself being not given to change, <hi>but hold<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng fast the form of sound words once delivered to the Saints.</hi>
+            </p>
+            <p n="13">XIII. He is obedient to all powers ordained of God, whether the King as Supream, or unto Governours as unto those that are sent by him, <hi>not for wrath, but for conscience sake, giving tribute to whom tribute is due, honour to whom honour, custom to whom cu<g ref="char:EOLhyphen"/>stom, fear to whom fear, resisting not the ordinances least he receive to himselfe damnation.</hi>
+            </p>
+            <p n="14">XIV. He is sober in his speech, diet, in eating and drinking: avoiding excess of riot, in modest apparrel, in moderate recreati<g ref="char:EOLhyphen"/>ons, least offensive profitable to himself and others in the refresh<g ref="char:EOLhyphen"/>ment of his mind, and body, for the better discharge of his duty.</p>
+            <p n="15">XV. He is faithful in speech and action there is no guile in him.</p>
+            <p n="16">XVI. He is contented in what state soever he is, being with<g ref="char:EOLhyphen"/>out covetousness, <hi>contented with such things as he hath.</hi>
+            </p>
+            <p n="17">XVII. He is patient in all things.</p>
+            <p n="18">XVIII. He is prudent and wise in the fear of God, with a sound mind, taking heed to walk circumspectly, watching against all enemies, observing his own danger, and the enterprizes of his enemies, measuring himself by his own strength, being wise to sobriety, being not just overmuch, <hi>Eccles.</hi> 2.16. <hi>Giving place to over ruling powers as far as he may with faith and a good consci<g ref="char:EOLhyphen"/>ence, and not trusting men.</hi>
+            </p>
+            <p n="19">XIX. He is just, doing to another but what he would be done to in that case himselfe.</p>
+            <p n="20">XX. He is liberal and charitable, <hi>putting on as an elect of God, bowels of mercy: Finally, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are of good report,</hi> with God or good men, if there be any other vir<g ref="char:EOLhyphen"/>tue, he thinks of these things.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
